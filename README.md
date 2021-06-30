@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Giovanni 👨‍💻
+
+- Developer currently working with ReactJS, Nodejs and Graphql.
+
+> Experience as a .NET backend developer, I worked on ViaVarejo's DevOps and Developer Experience team using Kubernetes, Docker, Jenkins, Github Actions, Kotlin, ReactJS, enabling automations for developers saving time and scalability with productivity tools.
+Maintaining team productivity even during a black friday period.
 
 <!--
 **ogiovannilima/ogiovannilima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
