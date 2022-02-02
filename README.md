@@ -2,8 +2,10 @@
 
 - Developer currently working with ReactJS, Nodejs and Graphql.
 
-> Experience as a .NET backend developer, I worked on ViaVarejo's DevOps and Developer Experience team using Kubernetes, Docker, Jenkins, Github Actions, Kotlin, ReactJS, enabling automations for developers saving time and scalability with productivity tools.
-Maintaining team productivity even during a black friday period.
+> Developer ReactJS at E-commerce and Health Companies.
+Currently on Dasa client, being part of the Front-end team using ReactJS.
+I worked on ViaVarejo client, as part of DevOps and Developer experience team,
+using Kubernetes, Docker, Jenkins, Github Actions, ReactJS and NodeJS.
 
 💼  [Linkedin](https://www.linkedin.com/in/giovannilimaa//) 
 
