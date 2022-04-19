@@ -6,7 +6,6 @@ Developer
 
 ReactJS Developer at E-commerce and Health Companies. Currently on Dasa client, being part of the Front-end team using ReactJS. I worked on ViaVarejo client, as part of DevOps and Developer experience team, using Kubernetes, Docker, Jenkins, Github Actions, ReactJS and NodeJS.
 
-* 🌍  I'm based in Brazil
 
 ### Skills
 
